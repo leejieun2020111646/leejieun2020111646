@@ -4,6 +4,8 @@
 
 ✨ Computer Science and Engineering
 
+✨ Cloud Engineering
+
 ✨ Information Security
 
 📫  jieun6269@gmail.com
