@@ -8,3 +8,4 @@
 
 📫  jieun6269@gmail.com
 
+[블로그](http://www.naver.com/](https://blog.naver.com/wldms6269/223119564168)https://blog.naver.com/wldms6269/223119564168)
