@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=1,2,4,12&height=150)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=0,1,2,3,3&height=150)
 
 ###  Lee Jieun
 
