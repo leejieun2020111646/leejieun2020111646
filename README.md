@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](./profile-3d-contrib/profile-green-animate.svg)
 **leejieun2020111646/leejieun2020111646** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
