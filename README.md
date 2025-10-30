@@ -4,12 +4,4 @@
 
 ✨ Computer Science and Engineering
 
-✨ Privacy-preserving AI
-
 ✨ Software Security
-
-📫  jieun6269@gmail.com / jieun6269@swu.ac.kr
-
-[블로그](https://blog.naver.com/wldms6269/223119564168)
-
-
